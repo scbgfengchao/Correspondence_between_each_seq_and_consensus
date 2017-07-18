@@ -12,4 +12,4 @@ Version:	Version 1.0
 
 Usage:	perl Correspondence_between_each_seq_and_consensus.pl $inputfile
 		$inputfile: Extraction of a seq from the result multiple sequence alignment (in fq format)
-	E.g.: perl Con_Sea_Identification_and_PIC_calculation.pl eg.fas
+	E.g.: perl Con_Sea_Identification_and_PIC_calculation.pl File_S1.fas 50
